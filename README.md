@@ -1,4 +1,4 @@
-# financial-assistant
+
 
 # 💹 Financial Assistant with Phidata
 
